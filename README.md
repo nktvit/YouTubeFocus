@@ -25,20 +25,10 @@ The YouTube Focus CSS script works by selectively hiding or removing certain ele
 
 ## Installation
 
-(Add instructions for how to install and use the CSS script with a browser extension or user stylesheet manager)
-
-## Customization
-
-(Provide information on how users can customize the script to their preferences, if applicable)
+Simply add it to browser's stylesheets. If your browser doesn't support this feature, you might need an extentension for custom CSS like [this](https://chromewebstore.google.com/detail/user-css/okpjlejfhacmgjkmknjhadmkdbcldfcb?hl=en)
 
 ## Compatibility
 
-(Include details about which browsers and YouTube versions the script is compatible with)
+🧭 Safari
 
-## Feedback and Contributions
-
-(Add information on how users can provide feedback or contribute to improving the script)
-
----
-
-*Note: This script is for personal use and is not affiliated with or endorsed by YouTube.*
+(didn't test with other browsers)
