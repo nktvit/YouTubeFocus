@@ -1,0 +1,7 @@
+# Exclude Mac-specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Exclude Mac-specific directories
+__MACOSX/
