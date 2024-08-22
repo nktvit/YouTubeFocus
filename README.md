@@ -2,6 +2,24 @@
 
 A custom CSS script to reduce distractions on YouTube and improve focus.
 
+## Home Page Comparison
+
+<table>
+  <tr>
+    <td><img src="https://i.imgur.com/yJKxMe4.png" alt="YouTube Home Page Before" width="100%"><br><em>Before</em></td>
+    <td><img src="https://i.imgur.com/AG63rK8.png" alt="YouTube Home Page After" width="100%"><br><em>After</em></td>
+  </tr>
+</table>
+
+## Video Page Comparison
+
+<table>
+  <tr>
+    <td><img src="https://i.imgur.com/Lpuha8P.png" alt="YouTube Video Page Before" width="100%"><br><em>Before</em></td>
+    <td><img src="https://i.imgur.com/bhUGiMU.png" alt="YouTube Video Page After" width="100%"><br><em>After</em></td>
+  </tr>
+</table>
+
 ## Features
 
 - **Home Page Cleanup**: Removes all videos from the YouTube home page
