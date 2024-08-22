@@ -43,7 +43,12 @@ The YouTube Focus CSS script works by selectively hiding or removing certain ele
 
 ## Installation
 
-Simply add it to browser's stylesheets. If your browser doesn't support this feature, you might need an extentension for custom CSS like [this](https://chromewebstore.google.com/detail/user-css/okpjlejfhacmgjkmknjhadmkdbcldfcb?hl=en)
+Simply add it to browser's stylesheets.
+
+<img src="https://i.imgur.com/O9SzNh2.png" alt="Open safari settings." width="40%">
+<img src="https://i.imgur.com/3ZWVSPa.png" alt="Select css file." width="70%">
+
+If your browser doesn't support this feature, you might need an extentension for custom CSS like [this](https://chromewebstore.google.com/detail/user-css/okpjlejfhacmgjkmknjhadmkdbcldfcb?hl=en)
 
 ## Compatibility
 
