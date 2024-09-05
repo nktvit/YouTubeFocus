@@ -47,3 +47,7 @@ ytd-reel-shelf-renderer {
 div.ytp-endscreen-content {
     display: none !important;
 }
+
+#player .ytp-pause-overlay-container {
+    display: none !important;
+}
